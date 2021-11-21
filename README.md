@@ -38,7 +38,7 @@ parent:
 
 ## 1. Description
 
-**Cronos** is the Crypto.org EVM chain that aims to massively scale the DeFi ecosystem.
+Solidarity is a fork of Cronos a Crypto.com EVM chain that aims to massively scale the DeFi ecosystem.
 
 <a id="contributing" />
 
@@ -148,11 +148,11 @@ pystarport supervisorctl stop all
 
 ## 10. Useful links
 
-- [Project Website](http://cronos.crypto.org/)
+- [Project Website](http://xbluecollar.org/)
 - [Technical Documentation](http://cronos.crypto.org/docs)
-- Community chatrooms (non-technical): [Discord](https://discord.gg/nsp9JTC) [Telegram](https://t.me/CryptoComOfficial)
+- Community chatrooms (non-technical): [Discord](https://discord.gg/J28SfFYD) [Telegram](https://t.me/CryptoComOfficial)
 - Developer community channel (technical): [![Support Server](https://img.shields.io/discord/783264383978569728.svg?color=7289da&label=Crypto.org Chain =discord =flat-square)](https://discord.gg/pahqHz26q4)
-- [Ethermint](https://github.com/tharsis/ethermint) by Tharsis
+- [Ethermint](https://github.com//ethermint) 
 - [Cosmos SDK documentation](https://docs.cosmos.network)
 - [Cosmos Discord](https://discord.gg/W8trcGV)
 - [Pystarport](https://github.com/crypto-com/pystarport/blob/main/README.md)
